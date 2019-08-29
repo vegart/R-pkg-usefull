@@ -1,0 +1,14 @@
+Package: usefull
+Title: enhance code readability
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "DH",
+           family = "Kim",
+           role = c("aut", "cre"),
+           email = "dhyj777@gmail.com",
+           comment = c(ORCID = "DONT_HAVE_ANY"))
+Description: set of codes for enhancing code readability
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
