@@ -2,3 +2,4 @@
 
 export("%if_na%")
 export("%if_null%")
+export(named_group_split)
